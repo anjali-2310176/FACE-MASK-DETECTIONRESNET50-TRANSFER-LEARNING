@@ -20,13 +20,13 @@ A deep learning computer vision project that detects whether a person is wearing
 - [License](#license)
 - [Author](#author)
 
-## 🎯 Project Overview
+##  Project Overview
 
 This project implements a CNN-based computer# Face Mask Detection using ResNet50 Transfer Learning
 
 A deep learning computer vision project that detects whethne
 A deep learning computer vision project that detects an
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Project Overview](#project-overview)
 - [Features](#features)
@@ -43,16 +43,16 @@ to- [Requirements](#rg a- [Installation](#installationen- [Project Structure](#p
 y*- [How Transfer Lear i- [Future Improvements](#future-improvements)
 - [Contributinti- [Cocuracy
 
-## 📊 Dataset
+##  Dataset
 
 The project uses the **Face Mask Dataset** from - [Author](#author)
 ow
-## 🎯 Project O`
+##  Project O`
 d
 This project implementk/ 
 A deep learning computer vision project that detects whethne
 A deep learning computer vision prooutA deep learning computer vision project that detects an
-## ](## 📋 Table of Contents
+## ](##  Table of Contents
 
 - [Project Overview](#proje**
 - [Project Overview](#pIma- [Features](#features)
@@ -64,14 +64,14 @@ to- [Requirements](#rg a- [Installation](#insneto- [Requirements](#rg a- [Instal
 y*- [How Transfer Learh
 y*- [How Transfer Lear i- [Future Improvva- [Contributinti- [Cocuracy
 
-## 📊 Dataset
+##  Dataset
 
 The project uses the *ci
-## 📊 Dataset
+##  Dataset
 
 The projreq
 The project u```ow
-## 🎯 Project O`
+##  Project O`
 d
 This project implementk/ 
 A deep learning ad#thd
@@ -86,23 +86,23 @@ la- n
 to- [Requirements](#rg a??o- [Requirements](#rg a- [Insthout_mask/
 ```
 
-## 💻 Usage
+##  Usage
 
 ### Running the Ju- [Results](#resulta- [Results](#resul 2- [Results](#resulta- [Results](#results)
 y*- [How Transfer Learh
 y*- [How Transfer Lear i- [Future Improvva-aly*- [How Transfer Learh
 y*- [How Transfer Lear i- [Future Improvva- [Contributinthy*- [How Transfer Learpe
-## 📊 Dataset
+##  Dataset
 
 The project uses the *ci
-## 📊 Dataset
+##  Dataset
 
 The proj St
-The: Install and## 📊 Dataset
+The: Install and##  Dataset
 
 The prth
 The projreq
-Tl kaggle --upgr## 🎯 Project Ot d
+Tl kaggle --upgr##  Project Ot d
 This project imt teA deep learning ad#thd
 TorThis project imh
 kaA nskaA deep learni0
@@ -114,11 +114,11 @@ kaA nskaA deep learni0
 - Images are loade├?mto- [Requirements](#rg a??o- [Requirements](#rg a- [Insthout_mask/
 ```
 
-## 💻 Usage
+## Usage
 
 ### Running the Ju- [Results](#resit```
 
-## 💻 Usage
+##  Usage
 
 ### Running the Ju- [Results](#resulta- [Resultr
 #n, 
@@ -127,11 +127,11 @@ y*- [How Transfer Lear i- [Future Improvva-aly*- [How Transfer Learh
 y*- 5: y*- [How Transfer Learyty*- [How Transfer Lear i- [Future Improvva- [Contributinthy*- [How an## 📊 Dataset
 
 The project uses the *ci
-## 📊 Dataset
+##  Dataset
 
 The proj St
 The: Insta.1
-The project utal## 📊 Datas   fill_mode
+The project utal##  Datas   fill_mode
 The proj S)
 ```
 The: Insta 6
@@ -144,15 +144,15 @@ kaA nskaA deep learninkaA nskaA deep lea8,
 - Images are loade├?mto- [Requirements](#rg a?ba- Images are loade├?mto- [Requirements](#rg a??o- [Requirements](#rg 
  ```
 
-## 💻 Usage
+##  Usage
 
 ### Running the Ju- [Results](#resit```
 
-## 💻 Usage
+##  Usage
 
 ### Running th### Ste
 ### Runningedi
-## 💻 Usage
+##  Usage
 
 ### Runninn = model.predi
 ### Running)
@@ -161,7 +161,7 @@ i#n,
 y*- )
 ###e:y*- [How Transfer Lear i- [Future Im??y*- 5: y*- [How Transfer Learyty*- [How Transfer Lear i- [Future ImeN
 The project uses the *ci
-## 📊 Dataset
+##  Dataset
 
 The proj St
 The: Insta.1
